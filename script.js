@@ -1,4 +1,4 @@
-const URL = "https://script.google.com/macros/s/AKfycbxIFnByuPQRTY6MuMtz1QkPbmpIqEV5HNKg8Zs9XaGk9DLsrz4zUxTyi9_hHvtScFhM/exec";
+const URL = "https://script.google.com/macros/s/AKfycbzTmD8yRRuhkjLPOoxwKpP28f50rnaS-W27Q2kyTsMCVPganSk4HNVf9UthIhTtwa6T/exec";
 
 function criar() {
   const data = {
